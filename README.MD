@@ -23,7 +23,7 @@
 <h3>Contact Me!</h3>
  
  
-<a rel="noreferrer" href="https://github.com/rotomicora"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a> <a rel="noreferrer" href="https://discord.gg/yFVv2JVjJ4"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>
+<a rel="noreferrer" href="https://github.com/nottzack"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"></a> <a rel="noreferrer" href="https://discord.gg/Jv5NycngQ3"><img src="https://skillicons.dev/icons?i=discord" alt="Discord"></a>
  
  
 <div align="center">
